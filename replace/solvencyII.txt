@@ -1,0 +1,30 @@
+#Solvency II
+rm,Risk Margin
+tp,Technical Provisions
+bel,Best Estimate Liability
+sii,Solvency II
+of,Own Funds
+siiof,Solvency II Own Funds
+scr,Solvency Capital Requirement
+cnhr,Cost of Non-hedgable Risk
+agnav,Adjusted Group NAV
+afr,Available Financial Resources
+agnav,Adjusted Group NAV
+bel,Best Estimate Liabilities
+expvar,experience variance
+Expvar,Experience variance
+ExpVar,Experience Variance
+assc,assumption change
+Assc,Assumption change
+AssC,Assumption Change
+ec,Economic Capital
+ecar,Economic Capital at Risk
+mcev,Market Consistent Embedded Value
+hrg,homogenous risk group
+
+#Accounting
+socie,Statement of Change in Equity
+sofp,Statement of Financial Position
+eqtp,equity attributable to holders of the parent
+aop,adjusted operating profit
+holdco,holding company
